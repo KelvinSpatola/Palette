@@ -5,8 +5,6 @@ Windmill windmill;
 void setup() {
   size(400, 400);
   windmill = new Windmill();
-  
-  //for(Palette val : Palette.values())
 }
 
 void draw() {
